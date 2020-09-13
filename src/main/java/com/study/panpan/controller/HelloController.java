@@ -1,4 +1,4 @@
-package com.study.panpan;
+package com.study.panpan.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.PathVariable;
